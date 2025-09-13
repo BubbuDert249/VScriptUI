@@ -1,2 +1,8 @@
 # VScriptUI
-A Squirrel library for UI in Valve games
+A Squirrel library for UI in Valve games <br>
+VScriptUI supports these games: <br>
+- Dota 2 <br>
+- Portal 2 <br>
+- Half-Life 2: Episode 2 <br>
+- Left 4 Dead 2 <br>
+- Source SDK Base 2013 <br>
